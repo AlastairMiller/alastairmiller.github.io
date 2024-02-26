@@ -1,18 +1,14 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+permalink: /about-me/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Professionally I am a DevOps engineer, previously being a backend software engineer. 
+Given this background I am an advocate for GitOps, providing repeatable, source controlled and more collaborative approach to creating infrastructure.
+Personal interests include defence, cloud computing and cyber security so most articles will revolve around these articles.
+I prefer to produce guides rather then to commit to maintaining libraries or plugins so hopefully you find some of what you read informative.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Alastair.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This blog itself is powered by Jekyll using a modified Minima theme. 
