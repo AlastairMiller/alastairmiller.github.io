@@ -26,6 +26,8 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
+markdown: GFM
+
 minima:
   skin: solarized-dark
   date_format: "%b %-d, %Y"
